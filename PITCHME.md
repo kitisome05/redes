@@ -41,6 +41,9 @@ User-Agent: nombre-cliente
 
 ---
 
+### <span class="gold">3.- Cabeceras protocolo HTTP</span>
+<br>
+
 ##### El servidor responde a nuestra petición
 ```shell
 HTTP/1.1 200 OK
@@ -56,6 +59,13 @@ Content-Length: 1221
 
 ---
 
+### <span class="gold">4.-Peticiones HTTP</span>
+<br>
+
+####<span class="gold">GET</span> transmite información atraves de la URL agregando parámetros a la URL.
+#### Ejemplo: <span class="aside">/index.php?page=main&lang=es</span>
+
+---
 #### No more <span class="gray">Keynote</span>.
 #### No more <span class="gray">Powerpoint</span>.
 <br>
