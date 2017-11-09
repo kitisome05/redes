@@ -84,6 +84,24 @@ Content-Length: 1221
 #### Las cookies fueron diseñadas para ser un mecanismo confiable para que los sitios web recuerden información con estado (como elementos agregados en el carro de compras en una tienda en línea) o para registrar la actividad de navegación del usuario (incluyendo hacer clic en botones particulares, iniciar sesión...
 
 ---
+
+### <span class="gold">7.- Evolución de HTTP</span>
+<br>
+
+#### Empezó en el 1990 con la versión HTTP 0.9
+#### Luego prosiguió hasta la versión HTTP 1.1 y fue evolucionando unos 15 años.
+#### Y por último tenemos la versión HTTP/2 que fue lanzada en mayo 2015.
+
+---
+
+### <span class="gold">8.- Características de HTTP 2.0</span>
+<br>
+
+#### <span class="gold">Alt-Svc</span> Permite disociar la identificación de una ubicación, con respecto a un recurso pedido.
+#### <span class="gold">Client-Hints</span> Permíte al navegador, o cliente, comunicar proactivamente al servidor.
+#### La introducción de prefijos de seguridad en la cabecera <span class="gold">Cookies</span>
+
+---
 #### No more <span class="gray">Keynote</span>.
 #### No more <span class="gray">Powerpoint</span>.
 <br>
