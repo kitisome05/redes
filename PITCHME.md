@@ -1,8 +1,7 @@
 @title[Introduction]
 
-# <span class="gold">Presentación HTTP</span>
+# <span class="gold">Presntación HTTP</span>
 
-#### Caracteristicas del protocolo HTTP
 <br>
 <br>
 <span class="byline">[ Características, Típica Sesión, Cabeceras protocolo, Peticiones, Respuestas, Cookies, Evolución ]</span>
