@@ -76,6 +76,12 @@ Content-Length: 1221
 #### <span class="gray">4XX</span> Errores del cliente
 #### <span class="gray">5XX</span> Errores del servidor
 
+---
+
+### <span class="gold">6.- Cookies</span>
+<br>
+
+#### Las cookies fueron diseñadas para ser un mecanismo confiable para que los sitios web recuerden información con estado (como elementos agregados en el carro de compras en una tienda en línea) o para registrar la actividad de navegación del usuario (incluyendo hacer clic en botones particulares, iniciar sesión...
 
 ---
 #### No more <span class="gray">Keynote</span>.
