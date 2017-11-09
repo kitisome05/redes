@@ -62,7 +62,7 @@ Content-Length: 1221
 ### <span class="gold">4.- Peticiones HTTP</span>
 <br>
 
-<span class="gold">GET</span> transmite información atraves de la URL agregando parámetros a la URL.
+#### <span class="gold">GET</span> transmite información atraves de la URL agregando parámetros a la URL.
 #### Ejemplo: <span class="aside">/index.php?page=main&lang=es</span>
 
 ---
