@@ -10,11 +10,12 @@
 
 @title[PITCHME.md]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+### Características del protocolo <span class="gold">HTTP</span>
+##### (Hypertext Transfer Protocol)
+#### Es un sencillo <span class="gold">Protocolo</span> cliente-servidor,
+#### escucha en el puerto 80 y el modo seguro en el 443
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">Hypertext Transfer Protocol</span>
 
 ---
 
