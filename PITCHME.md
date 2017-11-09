@@ -15,11 +15,30 @@
 ##### Es un sencillo <span class="gold">Protocolo</span> cliente-servidor,
 ##### escucha en el puerto 80 y el modo seguro es en el 443.
 <br>
+
 ---
-### <span class="gold">2.-Sesión HTTP</span>
+
+### <span class="gold">2.-Típica Sesión HTTP</span>
 ##### 1. El cliente establece una conexión TCP.
-##### 2. El cliente manda su petición, y espera una respuesta
+##### 2. El cliente manda su petición, y espera una respuesta.
 ##### 3. El servidor procesa la petición, y responde.
+
+---
+
+### <span class="gold">3.- Cabeceras protocolo HTTP</span>
+<br>
+
+```shell
+HTTP/1.1 200 OK
+Date: Fri, 31 Dec 2003 23:59:59 GMT
+Content-Type: text/html
+Content-Length: 1221
+```
+
+@[1](Versión del http y todo salio bien.)
+@[2](Fecha de respuesta.)
+@[3](Tipo de la respuesta, (text/html))
+@[4](El tamaño de la respuesta en octetos.)
 
 ---
 
