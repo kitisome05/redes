@@ -1,11 +1,11 @@
 @title[Introduction]
 
-# Git<span class="gold">Presentación HTTP</span>
+# <span class="gold">Presentación HTTP</span>
 
 #### Caracteristicas del protocolo HTTP
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">[ Características, Típica Sesión, Cabeceras protocolo, Peticiones, Respuestas, Cookies, Evolución ]</span>
 
 ---
 
