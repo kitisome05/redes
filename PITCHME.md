@@ -28,6 +28,20 @@
 ### <span class="gold">3.- Cabeceras protocolo HTTP</span>
 <br>
 
+##### Petición de nuestro navegador.
+```shell
+GET /index.html HTTP/1.1
+Host: www.example.com
+User-Agent: nombre-cliente
+```
+
+@[1](El cliente hace una petición mediante GET.)
+@[2](Dirección a la que hace la petición.)
+@[3](Quien hace la petición.)
+
+---
+
+##### El servidor responde a nuestra petición
 ```shell
 HTTP/1.1 200 OK
 Date: Fri, 31 Dec 2003 23:59:59 GMT
