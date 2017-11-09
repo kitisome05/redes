@@ -66,6 +66,18 @@ Content-Length: 1221
 #### Ejemplo: <span class="aside">/index.php?page=main&lang=es</span>
 
 ---
+
+### <span class="gold">5.- Respuestas HTTP</span>
+<br>
+
+#### <span class="gray">1XX</span> Respuestas informativas
+#### <span class="gray">2XX</span> Peticiones correctas
+#### <span class="gray">3XX</span> Redirecciones
+#### <span class="gray">4XX</span> Errores del cliente
+#### <span class="gray">5XX</span> Errores del servidor
+
+
+---
 #### No more <span class="gray">Keynote</span>.
 #### No more <span class="gray">Powerpoint</span>.
 <br>
