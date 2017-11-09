@@ -11,7 +11,6 @@
 @title[PITCHME.md]
 
 #### Características del protocolo <span class="gold">HTTP</span>
-<br>
 <span class="aside">Hypertext Transfer Protocol</span>
 ###### Es un sencillo <span class="gold">Protocolo</span> cliente-servidor,
 ###### escucha en el puerto 80 y el modo seguro en el 443
