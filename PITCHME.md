@@ -1,8 +1,8 @@
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+# Git<span class="gold">Presentación HTTP</span>
 
-#### Markdown Presentations For Everyone on Git.*
+#### Caracteristicas del protocolo HTTP
 <br>
 <br>
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
