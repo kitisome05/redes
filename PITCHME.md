@@ -10,12 +10,16 @@
 
 @title[PITCHME.md]
 
-### <span class="gold">Características del protocolo HTTP</span>
+### <span class="gold">1.-Características del protocolo HTTP</span>
 <span class="aside">Hypertext Transfer Protocol</span>
 ##### Es un sencillo <span class="gold">Protocolo</span> cliente-servidor,
-##### escucha en el puerto 80 y el modo seguro en el 443
+##### escucha en el puerto 80 y el modo seguro es en el 443.
 <br>
-
+---
+### <span class="gold">2.-Sesión HTTP</span>
+##### 1. El cliente establece una conexión TCP.
+##### 2. El cliente manda su petición, y espera una respuesta
+##### 3. El servidor procesa la petición, y responde.
 
 ---
 
